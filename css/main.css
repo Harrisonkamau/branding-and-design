@@ -34,27 +34,27 @@
   font-size: 20px;
 
 }
-.social-media {
+.socialmedia {
   float: right;
   margin-top: -90px;
   font-size: 13px;
 
 }
-.social-media i{
+.socialmedia i{
   padding-left: 3px;
   padding-right: 3px;
 }
-.social-media a{
+.socialmedia a{
   color:#fff;
   text-decoration: none;
 }
 body{
   background: #352D2F;
 }
-.social-media {
+.socialmedia {
   color:white;
 }
-.social-media a:hover{
+.socialmedia a:hover{
   color:yellow;
 }
 

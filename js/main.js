@@ -151,4 +151,18 @@ jQuery(document).ready(function($){
 		$oldWord.removeClass('is-visible').addClass('is-hidden');
 		$newWord.removeClass('is-hidden').addClass('is-visible');
 	}
+
+	$('#images').mouseenter(function() {
+       $(this).animate({
+           height: '+=10px'
+       });
+   });
+   $('#images').mouseleave(function() {
+       $(this).animate({
+           height: '-=10px'
+       });
+   });
+   $('#images').click(function() {
+       $(this).toggle(1000);
+   });
 });

@@ -107,7 +107,31 @@ body{
   font-size:20px;
 }
 
+/*About*/
 
 #about{
   background: #b3b3ff;
+}
+#images-section{
+  height:100px;
+  width:100px;
+  display: inline-block;
+}
+#red {
+    background-color:#FF0000;
+}
+
+#blue {
+    background-color:#0000FF;
+}
+
+#yellow {
+    background-color:#E2BE22;
+}
+#plain{
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:: cover;
+
 }

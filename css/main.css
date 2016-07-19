@@ -53,7 +53,9 @@ body{
 }
 .social-media {
   color:white;
-
+}
+.social-media a:hover{
+  color:yellow;
 }
 
 /* Effect 1: Brackets */
@@ -97,4 +99,10 @@ body{
 }
 .cl-effect-1 {
   background: #352D2F;
+}
+
+.grid h1{
+  color:yellow;
+  text-align: center;
+  font-size:20px;
 }

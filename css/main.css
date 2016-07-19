@@ -110,24 +110,14 @@ body{
 /*About*/
 
 #about{
-  background:  #4dff4d;
+  background: #0066ff;
 }
 #images-section img{
   height:100%;
   width:100px;
   display: inline-block;
 }
-#red {
-    background-color:#FF0000;
-}
 
-#blue {
-    background-color:#0000FF;
-}
-
-#yellow {
-    background-color:#E2BE22;
-}
 #plain{
   background-image: url(../images/background.jpg);
   background-repeat: no-repeat;

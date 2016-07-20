@@ -23,9 +23,9 @@
   text-decoration: none;
     color: white;
 }
-.nav a:hover {
+/*.nav a:hover {
   border-bottom: 3px solid orange;
-}
+}*/
 .nav li {
   vertical-align: top;
   display: inline-block;
@@ -62,6 +62,7 @@ body{
 .cl-effect-1 a::before,
 .cl-effect-1 a::after {
 	display: inline-block;
+  color:orange;
 	opacity: 0;
 	-webkit-transition: -webkit-transform 0.3s, opacity 0.2s;
 	-moz-transition: -moz-transform 0.3s, opacity 0.2s;

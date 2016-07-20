@@ -1,4 +1,6 @@
 jQuery(document).ready(function($){
+	// Foundation
+	$(document).foundation()
 	//set animation timing
 	var animationDelay = 2500,
 		//loading bar effect
